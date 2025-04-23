@@ -297,7 +297,7 @@ Replacing a verb or verb phrase with a substitute.
 | General | করা (kora) | সে ভালো গান গায়। আমি তা পারি না **করতে**। (He sings well. I cannot **do** so.) |
 | Same action | একই কাজ (ekoi kaj) | সে রোজ ব্যায়াম করে। আমিও **একই কাজ** করি। (He exercises daily. I **do the same**.) |
 | Modal | পারা/হওয়া (para/howa) | সে পরীক্ষায় পাস করবে। আমিও **পারব**। (He will pass the exam. I **will** too.) |
-| Comparative | বেশি/কম করা (beshi/kom kora) | সে দিনে দুই ঘণ
+| Comparative | বেশি/কম করা (beshi/kom kora) | সে দিনে দুই ঘণ (He [does something] two hours a day)|
 
 
 
